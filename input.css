@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+@font-face {
+    font-family: DMSerif;
+    src: url("./fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf");
+}
+@font-face {
+    font-family: PlayFair;
+    src: url("./fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf");
+}
+@font-face {
+    font-family: Quicksand;
+    src: url("./fonts/Quicksand/Quicksand-VariableFont_wght.ttf");
+}
